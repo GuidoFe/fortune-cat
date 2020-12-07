@@ -1,7 +1,7 @@
 # Fortune Cat
 
-Like the cow, but it's a cat (and has many more options). You can change the animal in a config file (to specify with -c) or with a dedicated file (-d). 
-
+Like the cow, but it's a cat (and has many more options). You can change the animal in a config file (to specify with -c) or with a dedicated file (-d).  
+Take a look [here](https://github.com/GuidoFe/FortuneCat) if you would like to have a cat cowsay to display quotes in your terminal.
 ## Requirements
 
 Python 3.0+, necessary for a simpler unicode manipulation.

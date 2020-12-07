@@ -2,7 +2,7 @@
 
 Like the cow, but it's a cat (and has many more options). You can change the animal in a config file (to specify with -c) or with a dedicated file (-d).  
   
-Take a look [here](https://github.com/GuidoFe/bashCatWithKitten) if you would like to have a cat to decor your cat commands.
+Take a look [here](https://github.com/GuidoFe/bashCatWithKitten) if you would like to have a cat to decor your `cat` command.
 ## Requirements
 
 Python 3.0+, necessary for a simpler unicode manipulation.

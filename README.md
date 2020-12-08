@@ -48,7 +48,7 @@ You can rename the file and/or remove the extension if you want
 | `-b, --bottom STR`          | Bottom box char                                                                                              |
 | `-p, --padding INT`         | Vertical padding of the entire output                                                                        |
 | `-cp, --cat-position FLOAT` | Position from 0 to 1 of the cat relative to the box. 0 = all to the left, 1 = all to the right, 0.5 = center |  
-| `-gp, --global-position INT`| Position like --cat-position, but of the entire outputrelative to the terminal   
+| `-gp, --global-position INT`| Position like --cat-position, but of the entire output relative to the terminal   
 
 ### Text Options
 

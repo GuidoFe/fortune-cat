@@ -23,16 +23,16 @@ You can use it
 
 ## Options
 
-Usage: catfortune.py OPTIONS [text]
+Usage: `catfortune.py OPTIONS [text]`
 
 You can rename the file and/or remove the extension if you want
 
 ### File Options
 
-| Command                 | Description                                  |
-|-------------------------|----------------------------------------------|
-| -d, --drawing-file FILE | File with a custom cat/animal/thinghy        |
-| -c, --config-file FILE  | Custom config file.                          |
+| Command                   | Description                                  |
+|---------------------------|----------------------------------------------|
+| `-d, --drawing-file FILE` | File with a custom cat/animal/thinghy        |
+| `-c, --config-file FILE`  | Custom config file.                          |
 
 ### Drawing Options
 
@@ -81,7 +81,7 @@ You can rename the file and/or remove the extension if you want
              |    |          -b=━
              |    |
               U  U
-                                       ┕━━┛=-tph
+                                       
                                         
 ```
 

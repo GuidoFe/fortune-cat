@@ -7,23 +7,27 @@ Take a look [here](https://github.com/GuidoFe/bashCatWithKitten) if you would li
 
 Python 3.0+, necessary for a simpler unicode manipulation.
 
+## How to install
+
+Download the script manually, or run `pip3 install fortune-cat`
+
 ## Examples
 
-![screen1](screen1.png)
-![screen2](screen2.png)
-![screen3](screen3.png)
+![screen1](https://raw.githubusercontent.com/GuidoFe/fortune-cat/main/screen1.png)
+![screen2](https://github.com/GuidoFe/fortune-cat/blob/main/screen2.png)
+![screen3](https://raw.githubusercontent.com/GuidoFe/fortune-cat/main/screen3.png)
 
 ## How to use
 
 Be sure to have Python3 and to make the script executable (`chmod +x ./catfortune.py`)
 
 You can use it
-* With a pipe: `fortune | ./catfortune.py [OPTIONS]`
-* With a string: `./catfortune.py [OPTIONS] "Hello"`
+* With a pipe: `fortune | fortune-cat [OPTIONS]`
+* With a string: `fortune-cat [OPTIONS] "Hello"`
 
 ## Options
 
-Usage: `catfortune.py OPTIONS [text]`
+Usage: `fortune-cat OPTIONS [text]`
 
 You can rename the file and/or remove the extension if you want
 
@@ -65,25 +69,6 @@ You can rename the file and/or remove the extension if you want
 |-------------------|-------------------------------|
 | `-h, --help`      | Print a guide to the script   |
 
-### Visual Guide
-
-```
-                                                     ━┒
-                                                      ┃ -p
-              ∧＿∧                                    ┃
-             ( ･ω･)          -t=─                    ━┛
-    -tl=┌────∪────∪───────────── ──────────┒=-tr    ━┒ 
-        │                                  ┃         ┃ -tpv
-     -l=│   You have an ability to sense   ┃        ━┛
-        │   and know higher truth.         ┃
-        │                                r=┃
-    -bl=┕━━━━┯━━━━┯━━━━━━━━━━━━━ ━━━━━━━━━━┛=-br
-             |    |          -b=━
-             |    |
-              U  U
-                                       
-                                        
-```
 
 ## Configuration files
 

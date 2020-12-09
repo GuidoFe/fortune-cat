@@ -1,0 +1,7 @@
+README.md
+fortune-cat
+setup.py
+fortune_cat.egg-info/PKG-INFO
+fortune_cat.egg-info/SOURCES.txt
+fortune_cat.egg-info/dependency_links.txt
+fortune_cat.egg-info/top_level.txt
